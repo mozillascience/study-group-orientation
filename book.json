@@ -1,0 +1,13 @@
+{
+    "gitbook": "2.0.1",
+    "plugins": ["edit-link", "ga"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/mozillascience/study-group-onboarding/edit/master",
+                "label": "Edit"
+            },
+            "ga": {
+                "token": "UA-35433268-51"
+            }
+    }
+}

@@ -1,0 +1,8 @@
+language: node_js
+install: npm install -g gitbook-cli
+before_script: gitbook install
+node_js:
+- '0.10'
+script: gitbook build
+after_success:
+- bash deploy.sh
