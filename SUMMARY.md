@@ -1,6 +1,6 @@
 Table of Contents
 
-1. [Intro to Mozilla Study Groups](https://docs.google.com/a/mozilla.com/document/d/1bn_qNfDLH6lfGqsSyz3QXCSvxW7crjDg33Z7nY7x_NU/edit?usp=sharing) (add “how to get help” re: Gitter Chat, Study Group calls)
+1. [Intro to Mozilla Study Groups](1-intro.md) (add “how to get help” re: Gitter Chat, Study Group calls)
 
 	1.1 Videos
 
