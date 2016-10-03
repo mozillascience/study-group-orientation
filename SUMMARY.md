@@ -1,10 +1,5 @@
-A Mozilla Study Group is a regular, in-person, informal meet-up where people get together to learn to code and learn about open research practice. It's a peer-to-peer learning environment designed for skill-sharing, idea discovery, community support, and collaboration. Anyone can start a Mozilla Study Group. This online training will help you jumpstart your own Study Group. 
-
-Before you get started, check our map to see if there’s already a Study Group in your area.
-
-<iframe height="420" width="620" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/mozillascience/studyGroupLessons/master/whereWeAre.geojson" title="whereWeAre.geojson"></iframe>
-
 Table of Contents
+
 1. [Intro to Mozilla Study Groups](https://docs.google.com/a/mozilla.com/document/d/1bn_qNfDLH6lfGqsSyz3QXCSvxW7crjDg33Z7nY7x_NU/edit?usp=sharing) (add “how to get help” re: Gitter Chat, Study Group calls)
 	1.1 Videos
 		1.1.1 Tom (study group intro)
