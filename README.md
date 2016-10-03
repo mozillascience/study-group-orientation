@@ -7,6 +7,6 @@ A [Mozilla Study Group](https://github.com/mozillascience/studygroup) is a regul
 
 Before you get started, check our map to see if there’s already a Study Group in your area.
 
-<iframe height="420" width="620" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/mozillascience/studyGroupLessons/master/whereWeAre.geojson" title="whereWeAre.geojson"></iframe>
+<iframe height="420" width="100%" frameborder="0" src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/mozillascience/studyGroupLessons/master/whereWeAre.geojson" title="whereWeAre.geojson"></iframe>
 
 If not, consider [forking the repository](https://github.com/mozillascience/studygroup) or [signing up here](https://science.mozilla.org/programs/studygroups#).
