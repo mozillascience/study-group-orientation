@@ -36,7 +36,7 @@ Mozilla Science Lab helps out by providing this training, an easy-to-use templat
 
 ### VIDEO: Azza
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VzuBJTtwm3o" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/VzuBJTtwm3o" frameborder="0" allowfullscreen></iframe>
     
 ### VIDEO: Tom
 
