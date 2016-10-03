@@ -30,10 +30,11 @@ Welcome to our onboarding material roadmap.
 - 21-22: Review pre/post-assessment;
 - 28- Dec 2: Reiterate; Blogpost (and Tweet) on pilot and announce sign-up for January orientation (limit to X#?)
 
-DEC
+#### DEC
 
 - Twitter campaign on signing up for January orientation
 - 5-9: Study group demo / feedback session during Hawaii
 
-JAN
+#### JAN
+
 Weekly hour-long onboarding sessions Days/Times TBD based on registrations x4?
