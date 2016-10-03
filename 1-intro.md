@@ -5,9 +5,13 @@ Hello, welcome to the Mozilla Science Lab's Study Group Orientation Series!
 ### Table of Contents
 
 1.1 About Mozilla Study Groups
+
 1.2 The Study Group Lead Role
+
 1.3 Who Can Join Your Study Group?
+
 1.4 Assignment: write a “README” for your study group
+
 1.5 Assignment: write a “Code of Conduct” for your study group
 
 
