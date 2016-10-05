@@ -7,12 +7,12 @@ Table of Contents
 		1.1.1 Tom (study group intro)
 		1.1.2 Sarah (study group intro)
 		1.1.3 Azza (needs edits, she will send midweek week of  Oct 3)
-2. [Teaching and Facilitation](https://docs.google.com/a/mozilla.com/document/d/1abNCjcvsdJmUQNSuwln7gkrKEGK3CZTyie5x2NNp0zw/edit?usp=sharing)
+2. [Teaching and Facilitation](2-teaching-facilitation.md)
 
 	2.1 Videos
 
 		2.1.1 Madeleine 
-3. [Using GitHub](https://docs.google.com/document/d/1zK6iOkyPtpcgSgL27lCRi2oSxCuCF8IrJuh91_wakys/edit#): your group website, collaboration, and more! 
+3. [Using GitHub](3-using-githb.md) 
 
 	3.1 Videos
 
@@ -22,7 +22,7 @@ Table of Contents
 	3.2 Diagrams
 
 		3.2.1 Set of illustrations of Github (OLTS)
-4. [Open Science and Open Research 101](https://docs.google.com/a/mozilla.com/document/d/1XTgTM98bCEltLsf-T4ksDhDKrbpoZkzzXx7ehGCEQ3M/edit?usp=sharing)
+4. [Open Science and Open Research 101](4-open-research101.md)
 
 	3.2 Videos
 
