@@ -1,4 +1,4 @@
-Welcome to our onboarding material roadmap.
+Welcome to our roadmap for creating and releasing the Study Group Orientation materials.
 
 
 ### MARKETING:
