@@ -24,6 +24,6 @@ We hold regular **Study Group Calls** to share and discuss new resources, materi
 
 Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is **file a GitHub issue** in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (If you're not familiar with GitHub, dont' worry! You'll learn a lot more about GitHub in Section 3 of this training!)
 
-## Help US grow and improve this book!
+## Help us grow and improve this book!
 Check out the "issues" tab, above, to see what you can do to improve or add to these materials. We'd love your help!
 
