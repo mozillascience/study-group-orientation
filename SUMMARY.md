@@ -4,9 +4,8 @@ Table of Contents
     * [1.1 About Study Groups](1.1-intro-to-groups.md)
     * [1.2 The Study Group Lead Role](1.2-lead-role.md)
     * [1.3 Who Can Join A Study Group?](1.3-who-can-join.md)
-    * [1.4 How to Get Help!](1.4-help.md)
-    * [1.5 Assignment: Write A README](1.5-write-a-readme.md)
-    * [1.6 Assignment: Write a Code of Conduct](1.6-write-a-coc.md)
+    * [1.4 Assignment: Write A README](1.4-write-a-readme.md)
+    * [1.5 Assignment: Write a Code of Conduct](1.5-write-a-coc.md)
 
 	1.1 Videos
 
