@@ -7,7 +7,7 @@ Table of Contents
     * [Assignment: Write A README](1.4-write-a-readme.md)
     * [Assignment: Write a Code of Conduct](1.5-write-a-coc.md)
 
-2. Teaching and Facilitation
+2. [Teaching and Facilitation](2-teach-facilitate.md)
     * [Facilitation Basics](2.1-facilitation-basics.md)
     * [Leading A Session](2.2-leading-session.md)
     * [Options for Sessions](2.3-options-sessions.md)
