@@ -20,7 +20,7 @@ Table of Contents
     * [Assignment: Get your Website & Repo Online!](3.3-get-online.md)
     * [Assignment: Add an Event!](3.4-add-event.md)
     * [Assignment: Feature Your Community](3.5-feature.md) 
-    * [Optional Assingment: Set Up A Google Calendar](3.6-google-cal.md)
+    * [Optional Assignment: Set Up A Google Calendar](3.6-google-cal.md)
     
 4. [Open Science and Open Research 101](4-open-research101.md)
     * [What are Open Science and Open Research, anyway?](4.1-what-are.md) 
