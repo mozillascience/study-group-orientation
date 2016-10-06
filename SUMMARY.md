@@ -8,11 +8,10 @@ Table of Contents
     * [Assignment: Write a Code of Conduct](1.5-write-a-coc.md)
 
 2. [Teaching and Facilitation](2-teach-facilitate.md)
-    * [Facilitation Basics](2.1-facilitation-basics.md)
-    * [Leading A Session](2.2-leading-session.md)
-    * [Options for Sessions](2.3-options-sessions.md)
-    * [The Lesson Template & Repo](2.4-template-repo.md)
-    * [Your First Meeting](2.5-first-meeting.md)
+    * [Leading A Session](2.1-leading-session.md)
+    * [Options for Sessions](2.2-options-sessions.md)
+    * [The Lesson Template & Repo](2.3-template-repo.md)
+    * [Your First Meeting](2.4-first-meeting.md)
     
 3. [Using GitHub](3-using-github.md) 
     * [Collaboration, Version Control, & GitHub](3.1-collab-vers-github.md)
