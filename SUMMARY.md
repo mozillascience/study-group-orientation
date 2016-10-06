@@ -32,21 +32,4 @@ Table of Contents
     * [4.7 Public Communication of Research](4.7-public-com.md) 
     * [4.8 Challenges to Open](4.8-challenges-open)
     
-    
-		3.2.1 Richard on publishing
-		3.2.2 Christie on Collaboration
-		3.2.3 Steph on Open Data
-		3.2.4 Achintya on Public Comms (he said he would do it on Sunday)
-		3.2.5 Steph and Joey: questions and answers
-5. [What’s Mozilla?](https://docs.google.com/document/d/1eEfoHV77P_Isju8a7B8V6vupvFGT2CMZF5WZnu3AKyY/edit?usp=sharing) And Introducing the Mozilla Science Lab 
-
-	4.1 Videos
-
-		4.1.1 Mark on Firefox
-		4.1.2 Intro to MSL - Steph (OPTIONAL)
-		4.2.3 Intro to MLN - Kaitlin
-6. [Growing your Group](https://docs.google.com/document/d/1_nyVogOC9XqhnRXZtDgDSoS_qfdDoeLwnhdc7t9xD1k/edit#) (in progress-- more on communication platforms)
-
-	5.1 Video
-
-		5.1.1 Zannah on Personas
+   
