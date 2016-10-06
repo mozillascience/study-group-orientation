@@ -24,10 +24,10 @@ Table of Contents
     
 4. [Open Science and Open Research 101](4-open-research101.md)
     * [Why Open Research?](4.1-why-open.md) 
-    * [Open Publication and Open Access](4.2-open-pub)
+    * [Open Publication and Open Access](4.2-open-pub.md)
     * [Reproducibility](4.3-repro.md)
     * [Code Review](4.4-code-review.md) 
-    * [Data Sharing](4.5-data-sharing.md) 
+    * [Data Sharing](4.5-open-data.md) 
     * [Collaboration & Open Source Projects](4.6-collab.md)
     * [Public Communication of Research](4.7-public-com.md) 
     * [Challenges to Open (& Some Responses)](4.8-challenges.md)
