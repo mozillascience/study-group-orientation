@@ -30,6 +30,6 @@ Table of Contents
     * [Data Sharing](4.5-data-sharing.md) 
     * [Collaboration & Open Source Projects](4.6-collab.md)
     * [Public Communication of Research](4.7-public-com.md) 
-    * [Challenges to Open (& Some Responses](4.8-challenges.md)
+    * [Challenges to Open (& Some Responses)](4.8-challenges.md)
     
    
