@@ -7,12 +7,13 @@ Table of Contents
     * [1.4 Assignment: Write A README](1.4-write-a-readme.md)
     * [1.5 Assignment: Write a Code of Conduct](1.5-write-a-coc.md)
 
-	1.1 Videos
-
-		1.1.1 Tom (study group intro)
-		1.1.2 Sarah (study group intro)
-		1.1.3 Azza (needs edits, she will send midweek week of  Oct 3)
-2. [Teaching and Facilitation](2-teaching-facilitation.md)
+* 2. Teaching and Facilitation
+    * [2.1 Facilitation Basics](2.1-facilitation-basics.md)
+    * [2.2 Leading A Session](2.2-leading-session.md)
+    * [2.3 Options for Sessions](2.3-options-sessions.md)
+    * [2.4 The Lesson Template & Repo](2.4-template-repo.md)
+    * [2.5 Your First Meeting](2.5-first-meeting.md)
+    
 
 	2.1 Videos
 
