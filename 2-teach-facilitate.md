@@ -1,3 +1,5 @@
+#Teaching and Facilitation for Study Groups
+
 The most successful study groups are welcoming, friendly, personable environments. **Complete newcomers to coding should feel comfortable, and a bit (or sometimes a lot) of confusion is expected as you work through new concepts and tools-- it’s part of the learning process.**
 
 This isn’t a space to show off your own skills or an opportunity to outshine others, it’s a mini-community where you’re all getting to know each other, and working together to help each other learn. It helps for Study Group Leads to create this space with intention, as it may not be typical of some research and work environments. Even if another member is presenting material, the Study Group Lead should be in a back-seat facilitator role, gently and thoughfully helping to ensure the meeting goes well.  
