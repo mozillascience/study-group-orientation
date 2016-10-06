@@ -12,7 +12,7 @@ Table of Contents
 	2.1 Videos
 
 		2.1.1 Madeleine 
-3. [Using GitHub](3-using-githb.md) 
+3. [Using GitHub](3-using-github.md) 
 
 	3.1 Videos
 
