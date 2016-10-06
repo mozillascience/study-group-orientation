@@ -14,23 +14,16 @@ Table of Contents
     * [2.4 The Lesson Template & Repo](2.4-template-repo.md)
     * [2.5 Your First Meeting](2.5-first-meeting.md)
     
-
-	2.1 Videos
-
-		2.1.1 Madeleine 
 3. [Using GitHub](3-using-github.md) 
-
-	3.1 Videos
-
-		3.1.1 Abby on interface (OLTS)
-		3.1.2 Andre on GitHub for projects (OLTs, not science)
-
-	3.2 Diagrams
-
-		3.2.1 Set of illustrations of Github (OLTS)
+    * [3.1 Collaboration, Version Control, & GitHub](3.1-collab-vers-github.md)
+    * [3.2 Getting to Know GitHub]()
+    * [3.3 Assignment: Get your Website & Repo Online!]()
+    * [3.4 Assignment: Add an Event!]()
+    * [3.5 Assignment: Feature Your Community]() 
+    * [3.6 Optional Assingment: Set Up A Google Calendar]()
+    
 4. [Open Science and Open Research 101](4-open-research101.md)
 
-	3.2 Videos
 
 		3.2.1 Richard on publishing
 		3.2.2 Christie on Collaboration
