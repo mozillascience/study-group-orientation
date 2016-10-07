@@ -32,7 +32,7 @@ Table of Contents
 5. [What's the Mozilla Science Lab, and who is Mozilla?](5-what-mozilla.md)
  
 6. [Growing Your Group](6-growing.md)
-   * [Communication Channels for Study Groups](6.1-comms.md)
+   * [Communication Channels for Study Groups](6.1-coms.md)
    * [Scheduling, Planning, And Rhythm](6.2-planning.md)
    * [Using Personas Grow Your Community](6.3-personas.md)
 
