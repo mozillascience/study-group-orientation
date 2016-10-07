@@ -1,9 +1,9 @@
-# Study Group Onboarding
-Welcome! This is a gitbook for Mozilla Science Lab's Study Group Lead Orientation; it includes lessons and assignments to help you get start your own Mozilla Science Lab Study Group, which is an informal meet-up for scientists and researchers who want to know more about code and open research practice.
+# Welcome to Mozilla Science Lab's Study Group Orientation 
+Hello! Thanks for droppng by.  This is a gitbook for Mozilla Science Lab's Study Group Lead Orientation; it includes lessons and assignments to help you tart your own  **Mozilla Science Lab Study Group... an informal meet-up for scientists and researchers who want to know more about code and open research practice.**
 
 ## How to Use this Training And What to Expect
 
-**This series is designed for completion online, as a solo training experience, done at your own pace.** There are five sections, some with videos and assignments or activities to read and work through. You'll probably need ~4 hours to complete this training. 
+**This series is designed for completion online, as a solo training experience, done at your own pace.** There are five sections, some with videos and assignments or activities to read and work through. You'll probably need ~4 to 6 hours to complete this training. If you'd like to connect with others doing the training at the same time, to meet, network and compare notes, see the section on "How to Connect and Get Help" below!
 
 **Here's what's in the book:** 
 * In the first section, you'll get a sense of what Study Groups are all about, and why you might want to  lead one. 
@@ -24,12 +24,12 @@ We encourage Study Group Leads from different groups to connect and share resour
 
 If you're joining us at one of those times, please join us for **Office Hours**(check the schedule here). A Mozilla Staff memeber and a seasoned Study Group Lead will be available by video chat or phone to answer your questions. 
 
-You can also join our **Chat room on Gitter**, a web-based chat client that's associated with the Study Group Rep. Sign-in to join! The Gitter chatroom is open 24 hours a day, and it's a great place to ask questions, share news and ideas, and just hang out with other Study Group Leads. 
+You can also join our **Chat room on [Gitter](https://gitter.im/)**, a web-based chat client that's associated with the Study Group Rep. Sign-up using your GitHub ID to join! The Gitter chatroom is open 24 hours a day, and it's a great place to ask questions, share news and ideas, and just hang out with other Study Group Leads. (Again, ifyou're not familiar with GitHub, that's OK! You'll learn all about GitHub in Section 3 of this training!)
 
 We hold regular **Study Group Calls** to share and discuss new resources, materials and ideas for Study Groups, to plan Sprints and other inter-group collaborations, and to network and connect! These are video conference calls, but you can also dial in toll-free by phone. Check our Events page for the details about the next call.
 
-Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is **file a GitHub issue** in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (If you're not familiar with GitHub, dont' worry! You'll learn a lot more about GitHub in Section 3 of this training!)
+Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is **file a GitHub issue** in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (Again, ifyou're not familiar with GitHub, dont' worry! Section 3 of this training covers what it is and how to use it.)
 
 ## Help us grow and improve this book!
-Check out the "issues" tab, above, to see what you can do to improve or add to these materials. We'd love your help!
+Check out the "issues" tab, above, to see what you can do to improve or add to these materials. **We'd love your help!**
 
