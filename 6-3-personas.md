@@ -1,0 +1,50 @@
+#Using Personas to Grow Your Group
+A “persona” is a tool commonly used in the design world, to help create products and experiences that work for real world users (aka “user-centered design”). You’d use a persona when you want to make your group experience better for members, attract an audience you're not yet bringing in, or to try to understand why people may be drifting away from your group.
+
+To recap, the persona is a description of a user. Personas should:
+* describe an imaginary user
+* be based on observations or understandings of actual potential or current users
+* be detailed enough so it feels real to the designer, so they can imagine the persona’s needs and responses to a product (or in this case, process of contributing)
+
+##Sample Persona
+Here is a sample persona created by MSL staff to think about users of the Study Group Program.
+
+*Rashid is a PhD student in astronomy at a university in Southern England. He’s outgoing and a snappy dresser, favoring skinny jeans and colorful cardigans. He lives in on-campus housing and after a long day at the lab he usually rushes home to see his wife and infant son. Rashid took an intro Java programming course long ago, as an undergrad, but his research now demands Python skills. Because of the competitive nature of his lab, he’s reluctant to ask colleagues for help. He follows Mozilla Science Labs on Twitter, has some exposure to and interest to Open Science, but is hesitant to share his data for fear of being “scooped” on an important discovery.*
+
+
+##About Pathways
+Once you have created a persona, youcan imagine how they might interact with our project-- the pathway they to get involved and to sustain involvement. This process of engagement most likely has a few phases.
+
+* **Discovery** - How they first hear about the group.
+* **First Contact** - How they first engage with the group, their initial interaction.
+* **Participation** - How they first participate or contribute.
+* **Sustained Participation** - How their contribution or involvement can continue.
+* **Networked Participation** - How they may network within the community.
+* **Leadership(( - How they may take on some additional responsibility in the group, or begin to lead.
+
+If you are working with a good persona, you can clearly see a progression of steps. Here’s an example (using Rashid).
+
+* Discovery - Early in the semester, Rashid sees poster advertising study group around campus.
+* First Contact - He attends the third meeting of the Group, and is encouraged to return personally in a follow up email from the Study Group Lead.
+* Participation -He asks and answers questions during the help session.
+* Sustained Participation - He attends several co-working sessions throughout the semester.
+* Networked Participation - He invites some of his colleagues from his lab to a session.
+* Leadership - He agrees to present an intro session on Java, and creates a learning resource to contribute to the group's repo.
+
+When you think through a pathway, you should begin to realize what needs to be in place to move your persona forward. **You’ll begin to see potential pitfalls for your persona, in terms of skills, time, and motivation.** Once you have a sense of this story, you can begin to list solutions to any challenges. In Rashid’s story, some of the challenges might be: 
+
+* a lack of awareness about the group, 
+* some reluctance to continue attending, not feeling quite at home since he's joined mid-way through
+* a lack of knowledge of GitHub
+* family time and scheduling conflicts
+* a lack of awareness on the part of the Study Group lead of Rashid’s skills and what he can contribute
+
+Here are examples of things that the project lead would need to do, or put in place for Rashid’s pathway to work:
+
+* Publicize group meetings via posters around campus as well as on twitter and via email blasts.
+* Collect emails of new group attendees for follow up messages-- personal messages may work best for new attendees who are unsure
+* Offer an online intro to GitHub for those who join mid-semester and missed the first sessions, and be sure to explain Group communications systems to newcomers
+* Schedule Group meetings for daytimes and early evenings to avoid conflicts with family schedules
+* Talk to newcomers to discover what skills they have to offer the group 
+
+You’ll likely need more than one persona for your project, as different groups of users will have different needs and motivations.
