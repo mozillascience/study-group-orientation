@@ -1,8 +1,8 @@
 #Growing Your Group
 
-It’s OK to start small-- in the beginning a Study Group can be just few people working together, you don’t need dozens of members to have your first meeting. On the flip side, some Study Groups start of big, with lots of buzz and excitement, but attendees lose interest after a few weeks.
+It’s OK to start small-- in the beginning a Study Group can be just few people working together. You don’t need dozens of members to have your first meeting. On the flip side, some Study Groups start of big, with lots of buzz and excitement, but attendees lose interest after a few weeks.
 
-Your Study Group will stabilize and grow, but it won’t happen overnight. Here are some tips on outreach for new Groups.
+Your Study Group will stabilize and grow-- it may take some time. Here are some tips on outreach for new and growing Groups.
 
 * **Start with people you know.** Invite people from your lab or your classes. A face to face conversation is the best way to connect and get someone excited about the Group.
 * **Send an email blast.**  Send out an announcement to your lab email list, departmental lists, and those of related departments. If there’s a campus-wide graduate student association, that’s a great place to advertise, too. 
