@@ -25,7 +25,7 @@ Mozilla Science Lab helps out by providing this training, an easy-to-use templat
 
 From Tom, at Boston University's Study Group in Boston, Massachusetts in the USA:
 
-<iframe width="100%" height="420" src="https://drive.google.com/open?id=0BwcYi-F78Qw4RGxTYlp1QnphV1k" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/watch?v=NwCdIIlhlIE" frameborder="0" allowfullscreen></iframe>
  
 From Sara, at the University of Wisconsin Study Group in Madison, Wisconsin, in the USA:
 
