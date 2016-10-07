@@ -33,8 +33,9 @@ Table of Contents
  
 6. [Growing Your Group](6-growing.md)
    * [Communication Channels for Study Groups](6.1-coms.md)
-   * [Scheduling, Planning, And Rhythm](6.2-planning.md)
+   * [Scheduling, Planning, & Rhythm](6.2-planning.md)
    * [Using Personas Grow Your Community](6.3-personas.md)
+   * [Assignment: Create a Persona & Pathway](6.4-assignment-personas.md)
 
 7. [The end! Next Steps](7-the-end.md)  
     
