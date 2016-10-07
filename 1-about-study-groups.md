@@ -21,14 +21,13 @@ A Mozilla Study Group is a regular, in-person, informal meet-up where people get
 There are Mozilla Study Groups all around the world, many at academic institutions and research organizations. Anyone can start a group. The format and schedule for study groups is flexible: you can modify it to fit the needs of your members. It’s all up to you! 
 
 Mozilla Science Lab helps out by providing this training, an easy-to-use template for a website, templates for advertising materials, and by managing an awesome collection of lessons created by Study Group members from around the world. We organize regular calls where study group members can connect and share what they’ve been doing with others. MSL also supports other community events and gatherings (you’ll learn more about these in Section 6). Here’s what a few different study groups look like in real life:
-
-
-From Tom, at Boston University's Study Group in Boston, Massachusetts in the USA:
-
-<iframe width="100%" height="420" src="https://www.youtube.com/watch?v=NwCdIIlhlIE" frameborder="0" allowfullscreen></iframe>
  
 From Sara, at the University of Wisconsin Study Group in Madison, Wisconsin, in the USA:
 
-<iframe width="100%" height="420" src="https://drive.google.com/open?id=0Bwlo0AMx9pqmMUpoNElwU1NTelE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgIHe5qo5Xg" frameborder="0" allowfullscreen></iframe>
+
+From Tom, at Boston University's Study Group in Boston, Massachusetts in the USA:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NwCdIIlhlIE" frameborder="0" allowfullscreen></iframe>
     
 Continue to the next section to learn more about the Study Group Lead.
