@@ -11,7 +11,7 @@ Your Study Group will stabilize and grow-- it may take some time. Here are some 
 * **Make friends with your librarians and department administrators.** These people can refer others to the group, may help you find meeting space and A/V equipment, and can assist if you deicde to hold a larger event or afternoon workshop.
 * **Contact like-minded groups.** Your institution may have a research computing department or group with common interests. Reach out to someone from this group to see if they might be interesting in attending or leading sessions in your Study Group. 
 * **Get the word out to newly arriving colleagues.** Ask your department administrator if your group can be mentioned in welcome packages for new students or researchers. 
-* **Advertise around campus.** Distribute flyers and put up posters announcing the group-- you can remix this template for our group!
+* **Advertise around campus.** Distribute flyers and put up posters announcing the group.
 * **Look outside your field of study to find potential members.** Researchers from all fields (life and physical sciences, humanities, social sciences) work with data and encounter similar challenges. A diverse group will make for lively, surprising discussions.
 * **Plan a Fun Event!** Throw a Demo Party or Hacky Hour-- these low pressure, social events are great ways to introduce potential members to the Group. 
 * **Persist! Keep reaching out and encouraging people to come!** Set a goal to personally invite a new person each time, and encourage other members to bring friends or labmates.
