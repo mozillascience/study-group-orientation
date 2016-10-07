@@ -28,7 +28,7 @@ You can also join our **Chat room on [Gitter](https://gitter.im/)**, a web-based
 
 We hold regular **Study Group Calls** to share and discuss new resources, materials and ideas for Study Groups, to plan Sprints and other inter-group collaborations, and to network and connect! These are video conference calls, but you can also dial in toll-free by phone. Check our Events page for the details about the next call.
 
-Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is file a GitHub issue in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (If you're not familiar with GitHub, don't worry! Section 3 of this training covers what it is and how to use it.)
+Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is file a GitHub issue in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (Again, it's OK if you're not familar with GitHub and GitHub issues-- all will be explained in Section 3.)
 
 ## Help us grow and improve this book!
 Check out the "issues" tab, above, to see what you can do to improve or add to these materials. **We'd love your help!**
