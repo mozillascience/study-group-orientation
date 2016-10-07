@@ -29,13 +29,13 @@ Table of Contents
     * [Public Communication of Research](4.7-public-com.md) 
     * [Challenges to Open (& Some Responses)](4.8-challenges.md)
     
- 5. [What's the Mozilla Science Lab, and who is Mozilla?](4-what-mozilla.md)
+5. [What's the Mozilla Science Lab, and who is Mozilla?](4-what-mozilla.md)
  
- 6. [Growing Your Group](6-growing.md)
+6. [Growing Your Group](6-growing.md)
    * [Communication Channels for Study Groups](6.1-comms.md)
    * [Scheduling, Planning, And Rhythm](6.2-planning.md)
    * [Using Personas Grow Your Community](6.3-personas.md)
-   
- 7.[The end! Next Steps](7-the-end.md)  
+
+7. [The end! Next Steps](7-the-end.md)  
     
    
