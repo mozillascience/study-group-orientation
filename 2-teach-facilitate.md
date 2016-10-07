@@ -6,6 +6,8 @@ This isn’t a space to show off your own skills or an opportunity to outshine o
 
 In this video Madeleine Bonsma, of the Unviersity of Toronto Coders group, talks about how she worked to create a welcoming Group environment.  
 
+<iframe width="100%" height="420" src="https://www.youtube.com/watch?v=8arg5Z9h8hc" frameborder="0" allowfullscreen></iframe>
+
 Here are a few more tips for facilitating Group meetings:  
 
 * **Arrive Early.** Get to the meeting space 10 minutes before the start time so you can set up, and be sure to give arriving members some time to greet each other and get settled before you jump into the session.  
