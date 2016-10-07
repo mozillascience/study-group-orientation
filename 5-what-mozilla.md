@@ -13,7 +13,7 @@ MSL seeks to promote open research through:
 
 In addition to the Study Group calls, MSL also has regular Community calls open to all-- drop in to meet fellow community members and learn about exciting topics in the world of open research. Explore the MSL website to learn more about our offerings.
 
-##Oh by the way, We’re from Mozilla!##
+##Oh by the way, we’re from Mozilla!##
 The Mozilla Science Lab is a program of the non-profit Mozilla Foundation. You may recognize the name Mozilla-- we’re the group of people, organized as a non-profit, public charity-- best known for making the Firefox web browser. Mozilla’s Firefox is an open source project, which means the source code is freely, publicly available and anyone who would like to can help develop the project. Firefox was created and is sustained by the Mozilla staff and a collaborative community of volunteers, called “contributors.”  Currently, 1/5th of the web's traffic comes through the Firefox browser, giving some of the big corporate browsers a bit of competition! **Many open practices-- such as the use of the web as a collaboration tool and a space to share code, resources, and data-- were created, tested, and refined by software developers working on open-source projects like Firefox.**
 
 The open source movement showed that scrappy, self-organized groups of passionate volunteers could collaborate to develop viable alternatives to proprietary software, and even compete against huge corporations! The principles of participation, self-organization, flexibility, and open sharing of resources are at the heart of Mozilla’s Study Group Program, and the open source ethos drive’s Mozilla’s commitment to open science and its Science Lab program.
