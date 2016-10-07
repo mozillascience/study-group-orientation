@@ -3,7 +3,7 @@ Table of Contents
 1. [About Study Groups](1-about-study-groups.md) 
     * [The Study Group Lead Role](1.1-lead-role.md)
     * [Assignment: Write A README](1.2-write-a-readme.md)
-    * [Assignment: Write a Code of Conduct](1.3-write-a-coc.md)
+    * [Assignment: Write a Code of Conduct](1.3-writing-a-coc.md)
 
 2. [Teaching and Facilitation](2-teach-facilitate.md)
     * [Leading A Session](2.1-leading-session.md)
