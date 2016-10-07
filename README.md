@@ -1,7 +1,7 @@
-# Welcome to Mozilla Science Lab's Study Group Orientation 
+# Welcome to Mozilla Science Lab's Study Group Orientation! 
 Hello! Thanks for droppng by.  This is a gitbook for Mozilla Science Lab's Study Group Lead Orientation; it includes lessons and assignments to help you tart your own  **Mozilla Science Lab Study Group... an informal meet-up for scientists and researchers who want to know more about code and open research practice.**
 
-## How to Use this Training And What to Expect
+## How to Use this Training and What to Expect
 
 **This series is designed for completion online, as a solo training experience, done at your own pace.** There are five sections, some with videos and assignments or activities to read and work through. You'll probably need ~4 to 6 hours to complete this training. If you'd like to connect with others doing the training at the same time, to meet, network and compare notes, see the section on "How to Connect and Get Help" below!
 
