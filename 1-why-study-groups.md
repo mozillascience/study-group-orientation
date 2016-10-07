@@ -1,6 +1,6 @@
 #Why Study Groups?
 
-Coding skills in particular are increasingly important in data-rich research environments, but many researchers don’t have formal training in computer science…. and the tools and technologies we need are always changing. A Mozilla Study Group is a regular, in-person, informal meet-up where people get together to learn to code and to explore open research practice-- strategies for maximizing the quality and impact of research in any field, from astrophysics to sociology. 
+A [Mozilla Study Group](https://github.com/mozillascience/studygroup) is a regular, in-person, informal meet-up where people get together to learn to code and learn about open research practice. Coding skills in particular are increasingly important in data-rich research environments, but many researchers don’t have formal training in computer science…. and the tools and technologies we need are always changing. A Mozilla Study Group is a regular, in-person, informal meet-up where people get together to learn to code and to explore open research practice-- strategies for maximizing the quality and impact of research in any field, from astrophysics to sociology. It's a peer-to-peer learning environment designed for skill-sharing, idea discovery, community support, and collaboration. 
 
 #### Why join a Study group?
 
