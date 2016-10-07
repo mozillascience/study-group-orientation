@@ -10,8 +10,7 @@ Table of Contents
 2. [Teaching and Facilitation](2-teach-facilitate.md)
     * [Leading A Session](2.1-leading-session.md)
     * [Options for Sessions](2.2-options-sessions.md)
-    * [The Lesson Template & Repo](2.3-template-repo.md)
-    * [Your First Meeting](2.4-first-meeting.md)
+    * [Your First Meeting](2.3-first-meeting.md)
     
 3. [Using GitHub](3-using-github.md) 
     * [Collaboration, Version Control, & GitHub](3.1-collab-vers-github.md)
@@ -30,5 +29,14 @@ Table of Contents
     * [Collaboration & Open Source Projects](4.6-collab.md)
     * [Public Communication of Research](4.7-public-com.md) 
     * [Challenges to Open (& Some Responses)](4.8-challenges.md)
+    
+ 5. [What's the Mozilla Science Lab, and who is Mozilla?](4-what-mozilla.md)
+ 
+ 6. [Growing Your Group](6-growing.md)
+   * [Communication Channels for Study Groups](6.1-comms.md)
+   * [Scheduling, Planning, And Rhythm](6.2-planning.md)
+   * [Using Personas Grow Your Community](6.3-personas.md)
+   
+ 7.[The end! Next Steps](7-the-end.md)  
     
    
