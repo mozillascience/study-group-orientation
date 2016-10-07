@@ -1,5 +1,5 @@
 # Welcome to Mozilla Science Lab's Study Group Orientation! 
-Hello! Thanks for droppng by.  This is a gitbook for Mozilla Science Lab's Study Group Lead Orientation; it includes lessons and assignments to help you start your own Study Group. ** A Study Group is an informal meet-up for scientists and researchers who want to know more about code and open research practice.**
+Hello! Thanks for droppng by.  This is an online handbook for Mozilla Science Lab's Study Group Lead Orientation; it includes lessons and assignments to help you start your own Study Group. ** A Study Group is an informal meet-up for scientists and researchers who want to know more about code and open research practice.**
 
 ## How to Use this Training and What to Expect
 
