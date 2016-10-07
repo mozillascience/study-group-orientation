@@ -29,7 +29,7 @@ Table of Contents
     * [Public Communication of Research](4.7-public-com.md) 
     * [Challenges to Open (& Some Responses)](4.8-challenges.md)
     
-5. [What's the Mozilla Science Lab, and who is Mozilla?](4-what-mozilla.md)
+5. [What's the Mozilla Science Lab, and who is Mozilla?](5-what-mozilla.md)
  
 6. [Growing Your Group](6-growing.md)
    * [Communication Channels for Study Groups](6.1-comms.md)
