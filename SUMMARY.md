@@ -1,11 +1,10 @@
 Table of Contents
 
-1. [Intro to Mozilla Study Groups](1-intro.md) 
-    * [Why Study Groups?](1.1-why-study-group.md)
-    * [The Study Group Lead Role](1.2-lead-role.md)
-    * [Who Can Join A Study Group?](1.3-who-can-join.md)
-    * [Assignment: Write A README](1.4-write-a-readme.md)
-    * [Assignment: Write a Code of Conduct](1.5-write-a-coc.md)
+1. [About Study Groups](1-about-study-groups.md) 
+    * [The Study Group Lead Role](1.1-lead-role.md)
+    * [Who Can Join A Study Group?](1.2-who-can-join.md)
+    * [Assignment: Write A README](1.3-write-a-readme.md)
+    * [Assignment: Write a Code of Conduct](1.4-write-a-coc.md)
 
 2. [Teaching and Facilitation](2-teach-facilitate.md)
     * [Leading A Session](2.1-leading-session.md)
