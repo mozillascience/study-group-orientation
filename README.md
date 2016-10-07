@@ -22,7 +22,7 @@ If there's a Group nearby, get in touch with them and attend a meeting. If not, 
 ## How to Connect, and Get Help!
 We encourage Study Group Leads from different groups to connect and share resources! We aim to gather a group of aspiring Study Group Leads to work through this training twice a year, roughly aligned with the Fall-Spring Academic Calendar. 
 
-If you're joining us at one of those times, please join us for **Office Hours** ([check the schedule here](https://github.com/mozillascience/study-group-onboarding/edit/master/README.md)). A Mozilla Staff memeber and a seasoned Study Group Lead will be available by video chat or phone to answer your questions. 
+If you're joining us at one of those times, please join us for **Office Hours** ([check the schedule here](https://github.com/mozillascience/study-group-onboarding/edit/master/ROADMAP.md)). A Mozilla Staff memeber and a seasoned Study Group Lead will be available by video chat or phone to answer your questions. 
 
 You can also join our **Chat room on [Gitter](https://gitter.im/)**, a web-based chat client that's associated with the Study Group Rep. Sign-up using your GitHub ID to join! The Gitter chatroom is open 24 hours a day, and it's a great place to ask questions, share news and ideas, and just hang out with other Study Group Leads. (If you've never used GitHub before, that's OK! You'll learn all about it in Section 3 of this training!)
 
