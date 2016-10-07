@@ -3,9 +3,7 @@ Hello! Thanks for droppng by. This is an online handbook for the Study Group Lea
 
 ## How to Use this Training and What to Expect
 
-**This series is designed for completion online, as a solo training experience, done at your own pace.** There are five sections, some with videos and assignments or activities to read and work through. You'll probably need ~4 to 6 hours to complete this training. 
-
-**If you'd like to connect with experienced Study Group Leads or other newcomers like you, to network and compare notes, see the below, in "How to Connect and Get Help"!**
+**This series is designed for completion online, as a solo training experience, done at your own pace.** There are five sections, some with videos and assignments or activities to read and work through. You'll probably need ~4 to 6 hours to complete this training. If you'd like to connect with experienced Study Group Leads or other newcomers like you, to network and compare notes, see the below, in "How to Connect and Get Help"!
 
 **Here's what's in the book:** 
 * In the first section, you'll get a sense of what Study Groups are all about, and why you might want to  lead one. 
