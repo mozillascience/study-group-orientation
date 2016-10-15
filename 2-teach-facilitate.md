@@ -4,7 +4,7 @@ The most successful study groups are welcoming, friendly, personable environment
 
 This isn’t a space to show off your own skills or an opportunity to outshine others, it’s a mini-community where you’re all getting to know each other, and working together to help each other learn. It helps for Study Group Leads to create this space with intention, as it may not be typical of some research and work environments. Even if another member is presenting material, the Study Group Lead should be in a back-seat facilitator role, gently and thoughfully helping to ensure the meeting goes well.  
 
-In this video Madeleine Bonsma-Fisher, of the Unviersity of Toronto Coders group, talks about how she worked to create a welcoming Group environment.  
+In this video [Madeleine Bonsma-Fisher](https://twitter.com/mbonsma), of the [University of Toronto Scientific Coders group](https://uoftcoders.github.io/studyGroup/), talks about how she worked to create a welcoming Group environment.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8arg5Z9h8hc" frameborder="0" allowfullscreen></iframe>
 
