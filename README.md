@@ -27,11 +27,11 @@ We encourage Study Group Leads from different groups to connect and share resour
 
 If you're joining us at one of those times, please join us for **Office Hours** ([check the schedule here](https://github.com/mozillascience/study-group-onboarding/blob/master/ROADMAP.md)). A Mozilla Staff memeber and a seasoned Study Group Lead will be available by video chat or phone to answer your questions. 
 
-You can also join our **Chat room on [Gitter](https://gitter.im/)**, a web-based chat client that's associated with the Study Group Rep. Sign-up using your GitHub ID to join! The Gitter chatroom is open 24 hours a day, and it's a great place to ask questions, share news and ideas, and just hang out with other Study Group Leads. (If you've never used GitHub before, that's OK! You'll learn all about it in Section 3 of this training!)
+You can also join our **[Chat room on Gitter mozillascience/studyGroup](https://gitter.im/mozillascience/studyGroup)**, a web-based chat client that's associated with the Study Group Rep. Sign-up using your GitHub ID to join! The Gitter chatroom is open 24 hours a day, and it's a great place to ask questions, share news and ideas, and just hang out with other Study Group Leads. (If you've never used GitHub before, that's OK! You'll learn all about it in Section 3 of this training!)
 
 We hold regular **Study Group Calls** to share and discuss new resources, materials and ideas for Study Groups, to plan Sprints and other inter-group collaborations, and to network and connect! These are video conference calls, but you can also dial in toll-free by phone. Check our Events page for the details about the next call.
 
-Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is file a GitHub issue in this Orientation Repo, or in the Study Group repo, or ping us on the Gitter Chat. (Again, it's OK if you're not familar with GitHub and GitHub issues-- all will be explained in Section 3.)
+Finally, if you have a question or problem, you can reach out to **Zannah Marsh, Mozilla's Learning Strategist, or Aurelia Moser, Mozilla's Community Lead**. The best way to do this is file a GitHub issue in this Orientation Repo, or in the Study Group repo, or [ping us on the Gitter Chat](https://gitter.im/mozillascience/studyGroup). (Again, it's OK if you're not familar with GitHub and GitHub issues-- all will be explained in Section 3.)
 
 ## Help us grow and improve this book!
 Check out the "issues" tab, above, to see what you can do to improve or add to these materials. **We'd love your help!**
