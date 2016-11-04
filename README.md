@@ -2,7 +2,7 @@
 
 ###Hello! Thanks for dropping by. 
 
-You're reading an [online handbook](https://mozillascience.github.io/study-group-onboarding/) for the Study Group Lead Orientation.  **A Mozilla Study Group is an informal, in-person meet-up for scientists and researchers who want to know more about code and open research practice.** This training will help you start your own Study Group. 
+You're reading an [online handbook](https://mozillascience.github.io/study-group-onboarding/) for the Study Group Lead Orientation.  **A Mozilla Study Group is an informal, in-person meet-up for scientists and researchers who want to know more about code and open research practice.** This training will help you start your own Study Group. You can access the entirety of this training as a pdf via this [gitbook export](https://github.com/mozillascience/study-group-orientation/blob/master/mybook.pdf), though the quality of the images isn't as great.  
 
 ## How to Use this Training and What to Expect
 
