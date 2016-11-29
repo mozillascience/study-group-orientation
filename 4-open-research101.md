@@ -8,4 +8,4 @@ Open science is a different approach to the practice of scientific research, aim
 
 * **Make research communications widely available and accessible to the public, encouraging public engagement and participation in research.**
 
-These open practices are not just specific to science-- in fact, they are applicable to any kind of research!
+These open practices are not just specific to science-- in fact, they are applicable to any kind of research! The next several sections introduce and explore Open Science concepts and practices in more detail. 
