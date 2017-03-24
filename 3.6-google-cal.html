@@ -40,7 +40,7 @@
     
 
         
-    <div class="book" data-level="3.6" data-basepath="." data-revision="Tue Nov 29 2016 22:08:20 GMT+0000 (UTC)">
+    <div class="book" data-level="3.6" data-basepath="." data-revision="Fri Mar 24 2017 20:03:06 GMT+0000 (UTC)">
     
 
 <div class="book-summary">
@@ -670,7 +670,15 @@
                     
                         <a id="edit-link" href="https://github.com/mozillascience/study-group-onboarding/edit/master/3.6-google-cal.md" class="btn fa fa-edit pull-left">&nbsp;&nbsp;Edit</a><h2 id="3-6-optional-assignment-set-up-a-google-calendar-for-your-study-group">3.6 Optional Assignment: Set up a Google Calendar for your Study Group</h2>
 <p>If you&apos;d like to offer your community a calendar of events they can import into their own calendars, try using a Google Calendar. To set up, make a new google account, and update the variables in _config.yml under the heading &apos;Setup Google Calendar&apos;.</p>
-<p>You can add events to your calendar by hand, but if you&apos;d like to manage it automatically, there&apos;s a script to do so in scripts/updateCalendar.py; instructions for use are at the top of that file.</p>
+<p>You can add events to your calendar by hand, but if you&apos;d like to manage it automatically, there&apos;s a script to do so in scripts/updateCalendar.py; instructions for use are at the top of that file and mentioned here as well.</p>
+<ul>
+<li>Follow this link and setup the credentials (follow step 1 and step 2): <a href="https://developers.google.com/google-apps/calendar/quickstart/python" target="_blank">https://developers.google.com/google-apps/calendar/quickstart/python</a> 
+(In step 2: Download .JSON file in working (scripts) directory).</li>
+<li>Update the variables in scripts/updateCalender.py: 
+(APPLICATION_NAME, CALENDAR_ID, TIME_ZONE_SRT) =&gt; (Google Calendar API Quickstart, USER@gmail.com, America/Vancouver)</li>
+<li>Run from scripts/ using: python updateCalendar.py --noauth_local_webserver</li>
+<li>The sample will attempt to open a new window or tab in your default browser. If this fails, copy the URL from the console and   manually open it in your browser.</li>
+</ul>
 
                     
                     </section>
