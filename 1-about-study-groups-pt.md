@@ -30,5 +30,5 @@ De Tom, do Grupo de Estudos da Universidade de Boston em Boston, Massachusetts n
 
 Existem diversos Grupos de Estudo Mozilla ao redor de todo o mundo, muitas instituições acadêmicas e organizações de pesquisa fazem parte. Qualquer um pode começar um grupo. O formato e o cronograma do grupo de estudo é flexível: você pode modificá-lo para atender as necessidades do seu grupo da maneira que achar apropriada. Esta tudo nas suas mãos! 
 
-O Mozilla Science Lab ajuda você provendo treinamento, um template de website facil de utilizar, templates para materiais publicitários e uma incrível coleção de lições criadas por membros de Grupo de Estudos de todo o mundo. 
+O Mozilla Science Lab ajuda você provendo treinamento, um template de website facil de utilizar, templates para materiais publicitários e uma incrível coleção de lições criadas por membros de Grupo de Estudos de todo o mundo. Nós organizamos conferências regulares para poder conectar e compartilhar o que seu grupo tem feito com os outros. O MSL também apoia outros eventos e encontros da comunidade (você irá aprender mais sobre isso na Seção 6).
 
