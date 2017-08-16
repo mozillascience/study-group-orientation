@@ -1,4 +1,4 @@
-# Sobre o Grupo de Estudos
+# Sobre o Grupo de Estudos Mozilla
 
 Um Grupo de Estudos Mozilla é um encontro regular pessoal e informal, onde as pessoas se reúnem para aprenderem a codificar e explorar práticas de pesquisa -- estratégias para maximizar a qualidade e o impacto da pesquisa em qualquer campo, da astrofísica à sociologia. As habilidades de codificação são cada vez mais requeridas em ambientes de pesquisas ricos em dados mas, muitos de nós não possui um treinamento formal em ciência da computação... e além disto, as ferramentas e tecnologias que precisamos estão mudando constantemente.**O Grupos de Estudo Mozilla é um ambiente de aprendizado peer-to-peer para compartilhar habilidades, descoberta de idéias, apoio comunitário e colaboração. **
 
