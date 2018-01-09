@@ -11,3 +11,4 @@ Quando você está fazendo ciência aberta você:
 * **Torna as comunicações de pesquisa amplamente disponíveis e acessíveis ao público, incentivando o envolvimento e a participação na pesquisa.;**
 
 
+Estas práticas "open" não específicas apenas da ciência -- ou seja, elas são aplicáveis em todos os tipos de pesquisa! Nas próximas secções vamos intruduzir e explorar conceitos e práticas de Ciência Aberta! 
